@@ -1,6 +1,3 @@
-Here’s a more straightforward and conversational README for your Contact List application:
-
-
 # Contact List Application
 
 ## Introduction
